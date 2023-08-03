@@ -6,3 +6,10 @@
 * Build Date: 03 Aug 2023
 * Email: info[@]ferdiozturk.com
 * Website: https://ferdiozturk.com
+
+----------------------------------------
+
+* KURULUM
+
+AutoPrice.php API bilgilerinizi girerek "includes" klasörüne yükledikten sonra cronjobs ekleyebilirsiniz.
+
