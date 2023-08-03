@@ -1,0 +1,1 @@
+# WHMCS-ResellerClub-Auto-Domain-Price
